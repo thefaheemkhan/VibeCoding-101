@@ -1,4 +1,4 @@
-# Documentation
+# Documentation 
 
 The full Vibe Coding 101 handbook, organized as a numbered curriculum.
 Read in order if you're new; jump to a topic if you're not. See
