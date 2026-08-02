@@ -13,7 +13,7 @@ Read in order if you're new; jump to a topic if you're not. See
 6. CLI Agents 📋
 
 ## Phase 2 — Working With AI
-7. [Prompt Engineering](07-prompt-engineering/README.md) ✅
+7. [Prompt Engineering](07-prompt-engineering/README.md) ✅ 
 8. [Planning](08-planning/README.md) ✅
 9. System Design 📋
 
