@@ -1,4 +1,1 @@
-# Vibe Coding 101 
-This is repo vibe coding 
- 
- 
+# Vibe Coding 101
