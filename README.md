@@ -1,2 +1,1 @@
-# Vibe Coding
- 
+# Vibe Coding 101
